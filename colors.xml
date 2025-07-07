@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Purple Color Tones -->
+    <color name="purple_500">#6200EE</color> <!-- Primary Purple -->
+    <color name="purple_700">#3700B3</color> <!-- Darker Purple -->
+    <color name="purple_200">#BB86FC</color> <!-- Lighter Purple -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorRed">#F44336</color>
+    <!-- Adjusted Primary and Secondary Colors in Purple Tones -->
+    <color name="primaryColor">#6200EE</color> <!-- Main Purple (Primary) -->
+    <color name="secondaryColor">#3700B3</color> <!-- Darker Purple (Secondary) -->
+    <color name="accentColor">#BB86FC</color> <!-- Light Purple (Accent) -->
+    <color name="logTextColorLight">#000000</color> <!-- Black for Light Theme -->
+    <color name="logTextColorDark">#FFFFFF</color> <!-- White for Dark Theme -->
+    <color name="themeSwitchTextColorLight">#000000</color> <!-- Black -->
+    <color name="themeSwitchTextColorDark">#FFFFFF</color> <!-- White -->
+
+</resources>

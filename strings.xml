@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xcess</string>
+    <string name="dark_mode_label">Dark Mode</string>
+    <string name="welcome_message">Welcome to Xcess</string>
+    <string name="access_folder">Access Folder</string>
+    <string name="app_version_label">Version</string>
+    <string name="notification_channel_name">Xcess Notifications</string>
+    <string name="notification_channel_desc">General alerts and messages</string>
+    <string name="log_out">Log Out</string>
+    <string name="xcess">Xcess</string>
+</resources>
